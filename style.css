@@ -1,0 +1,25 @@
+#content{
+    margin-top: 15px;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }
+  
+  .highlight.active {
+    background: orange;
+  }
+  
+  .search{
+    position:fixed;
+    background: #dbdbdb;
+    padding: 5px 5px;
+    right:0;
+    top:0;
+  }
+  
+  #found {
+    display:none;
+    color: black;
+    padding: 5px 5px;
+  }
